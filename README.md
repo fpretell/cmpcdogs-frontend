@@ -4,8 +4,7 @@
 
 Aplicación para dar de alta / eliminar Perros con su respectiva raza y sub raza.
 El listado nos permite filtrar perros por raza y sub raza.
-Evidencia: [Video del Frontend](https://drive.google.com/file/d/1JqBG_4xvDrnwG1GmSRUHuYAx_6YzYme5/view)
-Esto iniciará la aplicación en modo de desarrollo. Abre [http://localhost:3001](http://localhost:3001) en tu navegador para ver la aplicación.
+Evidencia: Video del Frontend - https://drive.google.com/file/d/1JqBG_4xvDrnwG1GmSRUHuYAx_6YzYme5/view
 
 ## Requisitos Previos
 
