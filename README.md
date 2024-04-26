@@ -1,8 +1,8 @@
 
 ```markdown
-# Nombre del Proyecto
+# CMPC Dogs Inventario
 
-Breve descripción del proyecto.
+Aplicación para dar de alta / eliminar Perros con su respectiva raza y sub raza. El lsitado nos permite filtrar perros por raza y sub raza.
 
 ## Requisitos Previos
 
@@ -26,7 +26,7 @@ Para ejecutar el proyecto en modo de desarrollo, utiliza el siguiente comando:
 npm start
 ```
 
-Esto iniciará la aplicación en modo de desarrollo. Abre [http://localhost:3000](http://localhost:3000) en tu navegador para ver la aplicación.
+Esto iniciará la aplicación en modo de desarrollo. Abre [http://localhost:3001](http://localhost:3001) en tu navegador para ver la aplicación.
 
 ## Construcción
 
